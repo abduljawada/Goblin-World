@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c47ca97709d505468cd9470cfc1b294, type: 3}
+  m_Name: Why
+  m_EditorClassIdentifier: 
+  text: Why my dear? Did anything bad happen to you?
+  choices:
+  - {fileID: 11400000, guid: 495c88c20ee6cf7458aa2b563959a9d9, type: 2}
+  - {fileID: 11400000, guid: 3691353086f297842bb7c4d946e18bd5, type: 2}
